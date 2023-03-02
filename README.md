@@ -8,3 +8,4 @@
 - https://www.youtube.com/watch?v=bTPouSkrhIM&ab_channel=SANSOffensiveOperations
 - https://www.youtube.com/watch?v=WchXkMlKj9w&ab_channel=BlackHillsInformationSecurity
 - https://www.youtube.com/watch?v=2Ty7zxsIOek&ab_channel=Immunefi
+- https://consensys.net/diligence/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/
